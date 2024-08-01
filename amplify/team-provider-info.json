@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-maraquizapp-dev-fbe7b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267075719:role/amplify-maraquizapp-dev-fbe7b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267075719:role/amplify-maraquizapp-dev-fbe7b-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-maraquizapp-dev-fbe7b-deployment",
+      "UnauthRoleName": "amplify-maraquizapp-dev-fbe7b-unauthRole",
+      "StackName": "amplify-maraquizapp-dev-fbe7b",
+      "StackId": "arn:aws:cloudformation:ca-central-1:533267075719:stack/amplify-maraquizapp-dev-fbe7b/10f90f80-5048-11ef-8758-02f93d4899c5",
+      "AmplifyAppId": "d3qxoonnfg49vv"
+    },
+    "categories": {
+      "auth": {
+        "maraquizapp00275243": {}
+      }
+    }
+  }
+}
