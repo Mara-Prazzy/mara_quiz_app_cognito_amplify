@@ -5,6 +5,11 @@ const quizData = [
       answer: "Spacewar!"
     },
     {
+      question: "Who made the change",
+      options: ["Bujju", "Tashi", "Prazzy", "Marshall"],
+      answer: "Prazzy"
+    },
+    {
       question: "Which company developed the first commercial antivirus software?",
       options: ["Symantec", "McAfee", "Norton", "Kaspersky Lab"],
       answer: "McAfee"
